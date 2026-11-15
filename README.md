@@ -6,6 +6,12 @@ An end-to-end exploratory analytics project examining **982,319 NYC Citi Bike tr
 
 Built with Python and Streamlit, the project combines interactive visualizations, geospatial analysis, statistical hypothesis testing, and business recommendations to demonstrate how trip-level data can inform operational and strategic decision-making.
 
+### 🚀 Explore the Live Dashboard
+
+**[Launch the NYC Citi Bike Analytics Explorer](https://nyccitibike-explorer.streamlit.app)**
+
+Explore 982,319 NYC Citi Bike trips through interactive visualizations, geospatial maps, statistical analyses, and business insights.
+
 ## Project Objectives
 
 - Explore ridership patterns across membership categories, bike types, and times of day.
