@@ -1,0 +1,22 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Editor settings
+.vscode/
+
+# Local AI agent configuration
+.agents/
